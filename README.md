@@ -43,10 +43,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 	4.	Push to the branch (git push origin feature/AmazingFeature).
 	5.	Open a Pull Request.
 
-##License
+## license
 
 This project is an open source project.
 
-##Contact
+## Contact
 
 If you have any questions or suggestions, feel free to contact me at [goyalvedant2005@gmail.com].
